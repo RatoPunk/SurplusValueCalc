@@ -1,3 +1,3 @@
 # SurplusValueCalc
-Assets must be in(just a bgm anyways): 
+Assets must be in: 
 C://WIndows//User//Public//Assets
