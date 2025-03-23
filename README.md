@@ -1,2 +1,3 @@
 # SurplusValueCalc
-extract the "Assets" folder to the public user folder for a very nice bgm
+Assets must be in(just a bgm anyways): 
+C://WIndows//User//Public//Asset
